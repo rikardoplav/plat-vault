@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 950" role="img" aria-labelledby="title desc">
+  <title id="title">Ground Floor Plan B placeholder</title>
+  <desc id="desc">Architectural floor plan placeholder for the ground floor circulation and service areas.</desc>
+  <rect width="1400" height="950" fill="#f7f1e8"/>
+  <rect x="70" y="70" width="1260" height="810" fill="#fffdfa" stroke="#b08e59" stroke-width="4"/>
+  <path d="M170 190h340v580H170zM510 190h270v260H510zM510 450h270v320H510zM780 190h450v580H780z" fill="none" stroke="#0d1828" stroke-width="8"/>
+  <path d="M510 330h-58M780 330h58M780 610h58M510 610h-58" stroke="#f7f1e8" stroke-width="16"/>
+  <path d="M300 190c0 92-52 150-130 150M650 450c0 80 45 135 130 135M1010 190c0 96 58 155 140 155" fill="none" stroke="#b08e59" stroke-width="5"/>
+  <path d="M265 255h150M265 315h150M265 375h150M265 435h150" stroke="#b08e59" stroke-width="5"/>
+  <g fill="#0d1828" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2">
+    <text x="245" y="555">ENTRY</text>
+    <text x="585" y="330">HALL</text>
+    <text x="585" y="620">STORAGE</text>
+    <text x="920" y="485">GARDEN ACCESS</text>
+  </g>
+  <g fill="#b08e59" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">
+    <text x="70" y="36">PRIVATE ESTATE ACCESS</text>
+    <text x="70" y="920">GROUND FLOOR PLAN B</text>
+  </g>
+</svg>

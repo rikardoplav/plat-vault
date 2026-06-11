@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">First Floor Plan placeholder</title>
+  <desc id="desc">Architectural floor plan placeholder for the first floor main residence.</desc>
+  <rect width="1600" height="1000" fill="#f7f1e8"/>
+  <rect x="80" y="80" width="1440" height="840" fill="#fffdfa" stroke="#b08e59" stroke-width="4"/>
+  <path d="M190 210h420v260H190zM190 470h420v300H190zM610 210h360v560H610zM970 210h440v280H970zM970 490h440v280H970z" fill="none" stroke="#0d1828" stroke-width="8"/>
+  <path d="M610 345h-70M610 615h-70M970 350h70M970 625h70" stroke="#f7f1e8" stroke-width="18"/>
+  <path d="M330 210c0 88-50 150-140 150M800 210c0 100 56 160 140 160M1130 490c0 90-52 145-145 145" fill="none" stroke="#b08e59" stroke-width="5"/>
+  <g fill="#0d1828" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="2">
+    <text x="295" y="350">STUDY</text>
+    <text x="305" y="635">DINING</text>
+    <text x="720" y="500">LIVING</text>
+    <text x="1105" y="360">KITCHEN</text>
+    <text x="1095" y="640">BATH</text>
+  </g>
+  <g fill="#b08e59" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">
+    <text x="80" y="45">PRIVATE ESTATE ACCESS</text>
+    <text x="80" y="960">FIRST FLOOR PLAN</text>
+  </g>
+</svg>
