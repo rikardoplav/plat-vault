@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 950" role="img" aria-labelledby="title desc">
+  <title id="title">Ground Floor Plan A placeholder</title>
+  <desc id="desc">Architectural floor plan placeholder for the ground floor apartment.</desc>
+  <rect width="1400" height="950" fill="#f7f1e8"/>
+  <rect x="70" y="70" width="1260" height="810" fill="#fffdfa" stroke="#b08e59" stroke-width="4"/>
+  <path d="M180 210h450v250H180zM180 460h450v270H180zM630 210h300v520H630zM930 210h280v250H930zM930 460h280v270H930z" fill="none" stroke="#0d1828" stroke-width="8"/>
+  <path d="M620 340h60M620 590h60M930 340h-60M930 590h-60" stroke="#f7f1e8" stroke-width="16"/>
+  <path d="M285 210c0 80-45 135-105 135M510 460c0 80 45 135 105 135M1045 460c0 74-42 124-105 124" fill="none" stroke="#b08e59" stroke-width="5"/>
+  <g fill="#0d1828" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2">
+    <text x="240" y="340">BEDROOM</text>
+    <text x="250" y="600">LIVING</text>
+    <text x="705" y="475">KITCHEN</text>
+    <text x="1010" y="340">BATH</text>
+    <text x="995" y="600">LAUNDRY</text>
+  </g>
+  <g fill="#b08e59" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="5">
+    <text x="70" y="36">PRIVATE ESTATE ACCESS</text>
+    <text x="70" y="920">GROUND FLOOR PLAN A</text>
+  </g>
+</svg>

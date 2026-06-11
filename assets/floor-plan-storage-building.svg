@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Storage Building Floor Plan</title>
+  <desc id="desc">Architectural placeholder floor plan for the storage building.</desc>
+  <rect width="1200" height="820" fill="#f7f1e8"/>
+  <rect x="88" y="84" width="1024" height="652" fill="#fffdf9" stroke="#b08e59" stroke-width="4"/>
+  <rect x="160" y="160" width="880" height="500" fill="none" stroke="#0d1828" stroke-width="10"/>
+  <path d="M160 410h880M600 160v500" fill="none" stroke="#0d1828" stroke-width="8"/>
+  <path d="M160 290h120M920 410h120M600 160v120M600 540v120" fill="none" stroke="#b08e59" stroke-width="10"/>
+  <rect x="218" y="218" width="260" height="128" fill="none" stroke="#6f7882" stroke-width="5"/>
+  <rect x="724" y="218" width="260" height="128" fill="none" stroke="#6f7882" stroke-width="5"/>
+  <rect x="218" y="474" width="260" height="128" fill="none" stroke="#6f7882" stroke-width="5"/>
+  <rect x="724" y="474" width="260" height="128" fill="none" stroke="#6f7882" stroke-width="5"/>
+  <text x="600" y="398" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#0d1828">Storage Building</text>
+  <text x="600" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="5" fill="#b08e59">FLOOR PLAN</text>
+  <g stroke="#d9c5a3" stroke-width="2" opacity="0.65">
+    <path d="M88 84h1024M88 736h1024M88 84v652M1112 84v652"/>
+    <path d="M120 116h960M120 704h960M120 116v588M1080 116v588"/>
+  </g>
+</svg>
